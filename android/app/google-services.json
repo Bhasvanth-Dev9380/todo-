@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467102573962",
+    "project_id": "applever-todo",
+    "storage_bucket": "applever-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467102573962:android:558ed136627f90cc42d473",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmaVntztVb2f_h4ZNFrVD0S8y_XLWPp_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
